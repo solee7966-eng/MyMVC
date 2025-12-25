@@ -65,6 +65,7 @@
 	</div>
 	
 	<h1>안태훈입니다.</h1>
+	<h1>수정해볼게요</h1>
 </div>
 
 <jsp:include page="footer1.jsp"/>
