@@ -22,7 +22,7 @@ import java.util.Properties;
 		description = "사용자가 웹에서 *.up 을 했을 경우 이 서블릿이 응답을 해주도록 한다.", 
 		urlPatterns = { "*.up" }, 
 		initParams = { 
-				@WebInitParam(name = "propertyConfig", value = "C:/NCS/workspace_jsp/MyMVC/src/main/webapp/WEB-INF/Command.properties", description = "*.up 에 대한 클래스의 매핑 파일")
+				@WebInitParam(name = "propertyConfig", value = "C:/Users/82104/git/MyMVC/MyMVC/src/main/webapp/WEB-INF/Command.properties", description = "*.up 에 대한 클래스의 매핑 파일")
 		})
 public class FrontController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
