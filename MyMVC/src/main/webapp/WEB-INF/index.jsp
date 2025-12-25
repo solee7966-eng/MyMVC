@@ -63,6 +63,8 @@
 		</a>
 		  
 	</div>
+	
+	<h1>안태훈입니다.</h1>
 </div>
 
 <jsp:include page="footer1.jsp"/>
